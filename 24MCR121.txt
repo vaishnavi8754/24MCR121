@@ -2,3 +2,4 @@ Name        : Vaishnavi D
 Reg.No      : 24MCR121
 Dept        : MCA
 Fav.Subject : DBMS
+Mobile model: Samsung Galaxy M31
